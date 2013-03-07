@@ -1,0 +1,1 @@
+rackup -D faye.ru -s thin -E production
